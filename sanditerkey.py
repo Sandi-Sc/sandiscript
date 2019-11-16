@@ -8,7 +8,7 @@ c ='\033[0m'
 os.system('clear')
 print(a+'\t  Script Tombol Tambahan Untuk Newbie')
 print(b+'\t             Hasil Karya')
-print('\t             Sandi Pirmansyah')
+print('\t           Sandi Pirmansyah')
 print(a+'+'*40)
 print('\nProses..')
 sleep(1)
@@ -20,7 +20,7 @@ except:
       pass
 print(a+'[!]Sabar Heula Bel !')
 sleep(1)
-print(b+'\n[!] Keur Nyelet Ulang..')
+print(b+'\n[!] Keur Nyetel Ulang..')
 sleep(1)
 
 key = "extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]"
